@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buykit.in/sitemap.xml
+Sitemap: https://github-guide.buykit.in/sitemap.xml
